@@ -1,7 +1,6 @@
 ## Hey, I'm Débora Marim 👋
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img height="200px" style="min-width:200px;" src="./perfil.png" />
   <div style="text-align: left; margin-left:60px; style="max-width:200px;">
     
    ```js
