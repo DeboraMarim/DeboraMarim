@@ -1,26 +1,26 @@
 ## Hey, I'm Débora Marim 👋
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="200px" style="min-width:200px;" src="./perfil.png" />
-    </td>
-    <td  valign="middle"">
-        I'm a full stack software engineer. <br/>
-        In programming, I found more than a profession, <br/>
-        I found a LIFESTYLE! <br/>
-        Welcome to my GitHub!<br/>
-        PS: If it seems tough, don't panic, remember: ONE COMMIT AT A TIME!
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img height="200px" style="min-width:200px;" src="./perfil.png" />
+  <div style="text-align: left; margin-left:60px">
+    
+   ```js
+I'm a full stack software engineer. 
+In programming, I found more than a profession, 
+I found a LIFESTYLE! 
+Welcome to my GitHub!
 
----
+PS: If it seems tough, don't panic, remember: ONE COMMIT AT A TIME!
+
+```
+  </div>
+</div>
+
 
 <div align="center">
     <div style="display: flex; justify-content: space-around;">
         <img src="https://github-readme-stats.vercel.app/api?username=DeboraMarim&show_icons=true&theme=radical" style="margin: 20px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" style="margin: 20px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=radical" style="margin: 30px;" />
     </div>
 </div>
 
