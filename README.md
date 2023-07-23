@@ -16,12 +16,9 @@ PS: If it seems tough, don't panic, remember: ONE COMMIT AT A TIME!
 </div>
 
 
-<div align="center">
-    <div style="display: flex; justify-content: space-around;">
-        <img src="https://github-readme-stats.vercel.app/api?username=DeboraMarim&show_icons=true&theme=radical" style="margin: 20px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=radical" style="margin: 30px;" />
-    </div>
-</div>
+## Statistics:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeboraMarim&count_private=true&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraMarim&theme=radical&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
