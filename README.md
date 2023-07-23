@@ -5,7 +5,8 @@
 <div align="center">
   <img height="200px" align="center" style="padding-bottom:100px; padding-top:50px;" src="./Design_sem_nome__3_-removebg-preview.png" />
   <div align="left" style="display: inline_block" markdown="0.2">
-    
+</br> 
+  
 ```js
 I'm a full stack software engineer. 
 In programming, I found more than a profession, 
