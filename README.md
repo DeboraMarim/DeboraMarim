@@ -22,7 +22,7 @@ PS: If it seems tough, don't panic, remember: ONE COMMIT AT A TIME!
 
 ---
 
-## Tools and Technologies that I use
+## Tools and Technologies I use
 
 <div>
 
